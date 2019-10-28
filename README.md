@@ -74,43 +74,5 @@ cat ips.txt
 64.107.14.212
 [+] library.morainevalley.edu [+]
 64.107.14.30
-[+] apps.morainevalley.edu [+]
-64.107.14.208
-[+] WWW.morainevalley.edu [+]
-34.231.191.220
-18.232.224.67
-[+] vcse.morainevalley.edu [+]
-64.107.14.13
-[+] smtp.morainevalley.edu [+]
-64.107.14.203
-[+] learn.morainevalley.edu [+]
-64.107.14.202
-[+] imap.morainevalley.edu [+]
-64.107.14.203
-[+] cube.morainevalley.edu [+]
-64.107.11.246
-[+] notes.morainevalley.edu [+]
-64.107.14.6
-[+] astra.morainevalley.edu [+]
-64.107.12.247
-[+] meeting.morainevalley.edu [+]
-64.107.14.32
-[+] cit.morainevalley.edu [+]
-64.107.14.155
-[+] online.morainevalley.edu [+]
-64.107.14.205
-[+] books.morainevalley.edu [+]
-207.138.59.100
-[+] news.morainevalley.edu [+]
-64.107.14.212
-[+] www.morainevalley.edu [+]
-34.231.191.220
-18.232.224.67
-[+] netlab.morainevalley.edu [+]
-64.107.13.100
-[+] pop3.morainevalley.edu [+]
-64.107.14.203
-[+] www.library.morainevalley.edu [+]
-64.107.14.30
 <<snip>>
 ```
